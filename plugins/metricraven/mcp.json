@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "metricraven": {
+      "url": "https://metricraven.com/api/mcp"
+    }
+  }
+}

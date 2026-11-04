@@ -1,0 +1,14 @@
+{
+  "name": "metricraven",
+  "displayName": "MetricRaven",
+  "version": "1.0.0",
+  "description": "Privacy-friendly web analytics with revenue attribution. Ask about traffic, revenue, channels, pages, goals and funnels, and see interactive charts.",
+  "author": {
+    "name": "Dual Ninja LLC",
+    "email": "support@metricraven.com"
+  },
+  "homepage": "https://metricraven.com/docs/mcp",
+  "license": "MIT",
+  "keywords": ["analytics", "web-analytics", "revenue", "marketing", "mcp", "privacy"],
+  "logo": "assets/logo.png"
+}

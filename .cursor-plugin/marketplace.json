@@ -1,0 +1,18 @@
+{
+  "name": "metricraven",
+  "owner": {
+    "name": "Dual Ninja LLC",
+    "email": "support@metricraven.com"
+  },
+  "metadata": {
+    "description": "MetricRaven web analytics and revenue attribution for Cursor",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "metricraven",
+      "source": "./plugins/metricraven",
+      "description": "Ask about your website's traffic, revenue, goals and funnels, with interactive charts."
+    }
+  ]
+}
